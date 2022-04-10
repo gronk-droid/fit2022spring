@@ -1,0 +1,15 @@
+[submodule "cse3100assignments"]
+	path = cse3100assignments
+	url = https://github.com/gronk-droid/cse3100assignments.git
+[submodule "cse3120assignments"]
+	path = cse3120assignments
+	url = https://github.com/gronk-droid/cse3120assignments.git
+[submodule "cse3231assignments"]
+	path = cse3231assignments
+	url = https://github.com/gronk-droid/cse3231assignments.git
+[submodule "cse4081assignments"]
+	path = cse4081assignments
+	url = https://github.com/gronk-droid/cse4081assignments.git
+[submodule "cse4083assignments"]
+	path = cse4083assignments
+	url = https://github.com/gronk-droid/cse4083assignments.git
