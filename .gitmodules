@@ -1,0 +1,12 @@
+[submodule "cse3100"]
+	path = cse3100
+	url = https://github.com/gronk-droid/cse3100.git
+[submodule "cse3120"]
+	path = cse3120
+	url = https://github.com/gronk-droid/cse3120.git
+[submodule "cse3231"]
+	path = cse3231
+	url = https://github.com/gronk-droid/cse3231.git
+[submodule "cse4081"]
+	path = cse4081
+	url = https://github.com/gronk-droid/cse4081.git
