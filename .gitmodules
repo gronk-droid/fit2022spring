@@ -10,3 +10,6 @@
 [submodule "cse4081"]
 	path = cse4081
 	url = https://github.com/gronk-droid/cse4081.git
+[submodule "cse4083"]
+	path = cse4083
+	url = https://github.com/gronk-droid/cse4083.git
